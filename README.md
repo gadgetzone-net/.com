@@ -1,2 +1,2 @@
-# .com
+# GADGETZONE.COM
 Electronica general
